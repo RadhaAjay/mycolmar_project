@@ -14,7 +14,6 @@
     background-color: #f8f9fa;
     width: 100%; /* Light background */
 }
-
 .navbar .logo{
     width: 300px;
     display: flex;
@@ -34,9 +33,6 @@
     line-height: 20px;
     margin-right: 30px;
     font-weight: 500;
-
-
-    
 }
 .banner
 {   height:100%;
